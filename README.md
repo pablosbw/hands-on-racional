@@ -3,7 +3,7 @@
 **Duración:** 2h 15min | **Nivel:** Intermedio | **Herramienta:** Claude Code
 
 Clasificador de efectos de la música en la salud mental usando el dataset
-[Music & Mental Health Survey](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results).
+[Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
 
 ---
 
