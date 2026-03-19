@@ -1,0 +1,21 @@
+Age,Hours per day,Fav genre,Anxiety,Depression,Insomnia,OCD,Music effects
+20,3.5,Rock,5,4,3,2,Improve
+25,1.0,Pop,7,6,5,1,No effect
+30,5.0,Classical,2,2,1,0,Improve
+22,6.0,Metal,8,7,6,4,Worsen
+19,2.0,Hip hop,4,3,2,1,Improve
+35,0.5,Jazz,3,2,1,0,No effect
+28,4.0,Pop,6,5,4,2,No effect
+24,7.0,Rock,9,8,7,5,Worsen
+21,3.0,R&B,4,4,3,1,Improve
+33,2.5,Classical,1,1,0,0,Improve
+27,5.5,Metal,7,6,5,3,Worsen
+31,1.5,Country,3,2,2,0,No effect
+18,4.5,Hip hop,5,5,4,2,Improve
+26,3.0,Jazz,2,2,1,0,Improve
+29,6.5,Pop,8,7,6,4,Worsen
+23,2.0,Rock,4,3,2,1,Improve
+32,1.0,R&B,3,3,2,0,No effect
+20,5.0,Classical,2,1,1,0,Improve
+34,4.0,Metal,6,6,5,3,Worsen
+22,3.5,Country,4,3,2,1,No effect
